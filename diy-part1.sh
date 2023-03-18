@@ -18,3 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 git clone https://github.com/ykxVK8yL5L/luci-app-synology package/luci-app-synology
+git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
